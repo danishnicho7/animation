@@ -33,8 +33,8 @@ Step 8: Save and run the application.
 ```
 /*
 Program to display animation operation”.
-Developed by: Ziyavudeen A
-Registeration Number : 212221040189
+Developed by: DANISH NICHO N
+Registeration Number : 212221040030
 */
 ```
 
